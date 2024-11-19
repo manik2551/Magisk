@@ -1,5 +1,5 @@
 # Magisk Changelog
-
+redmi 12
 ### v28.0
 
 - [General] Support 16k page size
@@ -832,3 +832,4 @@
 ### v1
 
 - Initial release
+redmi 12 control Center
